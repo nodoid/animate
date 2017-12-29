@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2A64A83A-5DD1-453F-AA97-027DEAFB558D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="animate/animateViewController.cs">
+    <Files>
+      <File FileName="animate/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="animate/animateViewController.cs" Line="19" Column="44" />
+      <File FileName="animate/Info.plist" />
+      <File FileName="animate/Main.cs" Line="1" Column="1" />
+      <File FileName="animate/animateViewController.designer.cs" Line="22" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../hellou/api-tests/api-tests/api-tests/getdealwithgeoloc.cs" line="76" offsetX="670" offsetY="1125" expression="response" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.animate PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.862E782F-CEFA-4078-BC42-52CABEADCCDE" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="GQEJEHTDM4" TeamId="3UH7BE38T3" />
+  </MonoDevelop.Ide.ItemProperties.animate>
+</Properties>

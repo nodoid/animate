@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animate", "animate\animate.csproj", "{2A64A83A-5DD1-453F-AA97-027DEAFB558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Release|iPhone.Build.0 = Release|iPhone
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2A64A83A-5DD1-453F-AA97-027DEAFB558D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = animate\animate.csproj
+	EndGlobalSection
+EndGlobal
